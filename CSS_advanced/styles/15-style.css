@@ -371,8 +371,10 @@
     --section-tagline-transform: uppercase;
     --section-title-margin: 0;
     --section-title-color: var(--color-black);
-    --box-sizing: content-box;
+}
 
+* {
+    box-sizing: border-box;
 }
 
 html {
