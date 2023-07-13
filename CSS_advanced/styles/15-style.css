@@ -374,15 +374,15 @@
 }
 
 * {
-    box-sizing: content-box;
+    box-sizing: border-box;
 }
 
 *::before {
-    box-sizing: content-box;
+    box-sizing: border-box;
 }
 
 *::after {
-    box-sizing: content-box;
+    box-sizing: border-box;
 }
 
 html {
