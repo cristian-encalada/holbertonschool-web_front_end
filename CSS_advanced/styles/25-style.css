@@ -561,7 +561,7 @@ ul.row {
     --text-color: var(--color-white);
     --section-title-color: var(--color-white);
     background: var(--color-black);
-    --button-color: var(--color-white);
+    --button-color: var(--color-white)
 }
 
 .footer-address {
@@ -604,5 +604,5 @@ ul.row {
 .button:hover {
     color: var(--button-hover-color);
     text-decoration: var(--button-text-decoration);
-    background-color: var(--button-hover-background);
+    background: var(--button-hover-background);
 }
